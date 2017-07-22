@@ -8,6 +8,5 @@
     
     npm install
     
-    npm start #(开启项目) (端口号 3331)
-    
-    npm built #(发布项目)
+    #运行项目
+    npm run
